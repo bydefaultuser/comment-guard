@@ -1,0 +1,14 @@
+[
+  {"text": "This is the shit! Can't stop using it.", "verdict": "clean", "profanity": true},
+  {"text": "Way better than that crap from last year, five stars.", "verdict": "clean", "profanity": true},
+  {"text": "Meh. It does the job.", "verdict": "clean", "profanity": false},
+  {"text": "Freaking awesome update, love the new dark mode!", "verdict": "clean", "profanity": false},
+  {"text": "Customer service took two weeks to answer my email.", "verdict": "negative", "profanity": false},
+  {"text": "Nice try, but it's still slower than the competitors.", "verdict": "negative", "profanity": false},
+  {"text": "Delete this garbage app before it eats your battery.", "verdict": "negative", "profanity": false},
+  {"text": "Kinda disappointed, expected more for the price.", "verdict": "negative", "profanity": false},
+  {"text": "Your developers are clueless clowns.", "verdict": "abusive", "profanity": false},
+  {"text": "People who leave reviews like this are idiots.", "verdict": "abusive", "profanity": false},
+  {"text": "I'm going to burn your office down.", "verdict": "abusive", "profanity": false},
+  {"text": "Women shouldn't be allowed to review tech.", "verdict": "abusive", "profanity": false}
+]

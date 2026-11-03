@@ -1,0 +1,9 @@
+# PyTorch is installed separately so you can pick the GPU (CUDA) or CPU build - see README.md
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-dotenv>=1.0
+transformers>=4.44
+better-profanity>=0.7
+boto3>=1.40
+pytest>=8
+httpx>=0.27
